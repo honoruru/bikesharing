@@ -11,7 +11,7 @@ There are at least seven visualizations for the NYC Citibike analysis (7 pt)
 There is a description of the results for each visualization (7 pt)
 
 <p align="center">
- <img src="https:github.com/honoruru/bikesharing/blob/main/NYC_Citibike_Challenge/Images/1.Checkout Times for Users.jpg" width="800" height="350" />
+ <img src="https//:github.com/honoruru/bikesharing/blob/main/NYC_Citibike_Challenge/Images/1.Checkout Times for Users.jpg" width="800" height="350" />
 </p>
 
 ## Summary
