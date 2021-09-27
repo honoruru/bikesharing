@@ -14,6 +14,33 @@ There is a description of the results for each visualization (7 pt)
  <img src="https://github.com/honoruru/bikesharing/blob/main/NYC_Citibike_Challenge/Images/1.Checkout%20Times%20for%20Users.jpg" width="800" height="350" />
 </p>
 
+<p align="center">
+ <img src="https://github.com/honoruru/bikesharing/blob/main/NYC_Citibike_Challenge/Images/2.Checkout%20Times%20for%20Users%20by%20Gender.jpg" width="800" height="350" />
+</p>
+
+<p align="center">
+ <img src="https://github.com/honoruru/bikesharing/blob/main/NYC_Citibike_Challenge/Images/3.Trips%20by%20Weekday%20per%20Hour.jpg" width="800" height="350" />
+</p>
+
+<p align="center">
+ <img src="https://github.com/honoruru/bikesharing/blob/main/NYC_Citibike_Challenge/Images/4.Trips%20by%20Gender%20(Weekday%20per%20Hour).jpg" width="800" height="350" />
+</p>
+
+<p align="center">
+ <img src="https://github.com/honoruru/bikesharing/blob/main/NYC_Citibike_Challenge/Images/5.User%20Trips%20by%20Gender%20by%20Weekday.jpg" width="800" height="350" />
+</p>
+
+<p align="center">
+ <img src="https://github.com/honoruru/bikesharing/blob/main/NYC_Citibike_Challenge/Images/6.peak%20hours%20DB.jpg" width="800" height="350" />
+</p>
+
+<p align="center">
+ <img src="https://github.com/honoruru/bikesharing/blob/main/NYC_Citibike_Challenge/Images/7.utilization%20DB.jpg" width="800" height="350" />
+</p>
+
+<p align="center">
+ <img src="https://github.com/honoruru/bikesharing/blob/main/NYC_Citibike_Challenge/Images/8.repairs%20DB.jpg" width="800" height="350" />
+</p>
 ## Summary
 
 Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
