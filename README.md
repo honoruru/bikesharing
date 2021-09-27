@@ -39,7 +39,7 @@ There is a description of the results for each visualization (7 pt)
 </p>
 
 <p align="center">
- <img src="https://github.com/honoruru/bikesharing/blob/main/NYC_Citibike_Challenge/Images/8.repairs%20DB.jpg" width="00" height="350" />
+ <img src="https://github.com/honoruru/bikesharing/blob/main/NYC_Citibike_Challenge/Images/8.repairs%20DB.jpg" width="600" height="350" />
 </p>
 ## Summary
 
