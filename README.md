@@ -19,6 +19,10 @@ There is a description of the results for each visualization (7 pt)
 </p>
 
 <p align="center">
+ <img src="https://github.com/honoruru/bikesharing/blob/main/NYC_Citibike_Challenge/Images/6.peak%20hours%20DB.jpg" width="600" height="350" />
+</p>
+
+<p align="center">
  <img src="https://github.com/honoruru/bikesharing/blob/main/NYC_Citibike_Challenge/Images/3.Trips%20by%20Weekday%20per%20Hour.jpg" width="600" height="350" />
 </p>
 
@@ -28,10 +32,6 @@ There is a description of the results for each visualization (7 pt)
 
 <p align="center">
  <img src="https://github.com/honoruru/bikesharing/blob/main/NYC_Citibike_Challenge/Images/5.User%20Trips%20by%20Gender%20by%20Weekday.jpg" width="600" height="350" />
-</p>
-
-<p align="center">
- <img src="https://github.com/honoruru/bikesharing/blob/main/NYC_Citibike_Challenge/Images/6.peak%20hours%20DB.jpg" width="600" height="350" />
 </p>
 
 <p align="center">
