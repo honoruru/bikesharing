@@ -24,8 +24,6 @@ This holds true regardless of gender of rider, although the services is clearly 
 </p>
 The peak time of day for starting rides 7:00 am to 9:00 am and again at 4:00 pm to 7 pm.  It would appear the rides are greater during the daily commute, which supported by the observation of rides generally lasting 30 minutes or less.
 
-
-
 <p align="center">
  <img src="https://github.com/honoruru/bikesharing/blob/main/NYC_Citibike_Challenge/Images/User%20Trips%20by%20Gender%20by%20Weekday%20Heatmap.png" width="600" height="350" />
 </p>
