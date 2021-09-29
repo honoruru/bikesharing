@@ -6,7 +6,7 @@ The purpose of to prepare and provide analysis to convince investors that a bike
 
 ## Results
 
-Using the visualizations you have in your Tableau Story, describe the results of each visualization underneath the image.
+
 
 
 <p align="center">
@@ -25,19 +25,19 @@ This holds true regardless of gender of rider, although the services is clearly 
 The peak time of day for starting rides 7:00 am to 9:00 am and again at 4:00 pm to 7 pm.  It would appear the rides are greater during the daily commute.
 
 <p align="center">
+ <img src="https://github.com/honoruru/bikesharing/blob/main/NYC_Citibike_Challenge/Images/5.User%20Trips%20by%20Gender%20by%20Weekday.jpg" width="600" height="350" />
+</p>
+The busiest days of the week for rides are Thursday, Friday and Saturday. The slowest day of the week is Wednesday.
+
+<p align="center">
  <img src="https://github.com/honoruru/bikesharing/blob/main/NYC_Citibike_Challenge/Images/3.Trips%20by%20Weekday%20per%20Hour.jpg" width="600" height="350" />
 </p>
-
+When reviewing peak hours by weekday, the proportion support the notion that peak hours of 7:00 to 9:00 am and 4:00 to 7 pm represent commuter users. 
 
 <p align="center">
  <img src="https://github.com/honoruru/bikesharing/blob/main/NYC_Citibike_Challenge/Images/4.Trips%20by%20Gender%20(Weekday%20per%20Hour).jpg" width="600" height="350" />
 </p>
 This holds true regardless of gender of rider.
-
-<p align="center">
- <img src="https://github.com/honoruru/bikesharing/blob/main/NYC_Citibike_Challenge/Images/5.User%20Trips%20by%20Gender%20by%20Weekday.jpg" width="600" height="350" />
-</p>
-The busiest days of the week for rides are Thursday, Friday and Saturday. The slowest day of the week is Wednesday.
 
 <p align="center">
  <img src="https://github.com/honoruru/bikesharing/blob/main/NYC_Citibike_Challenge/Images/7.utilization%20DB.jpg" width="600" height="350" />
@@ -47,7 +47,7 @@ The average duration of rides...
 <p align="center">
  <img src="https://github.com/honoruru/bikesharing/blob/main/NYC_Citibike_Challenge/Images/8.repairs%20DB.jpg" width="600" height="350" />
 </p>
-The average number og repairs...
+The average number of repairs...
 
 
 
