@@ -10,7 +10,7 @@ Using the visualizations you have in your Tableau Story, describe the results of
 
 
 <p align="center">
- <img src="https://github.com/honoruru/bikesharing/blob/main/NYC_Citibike_Challenge/Images/1.Checkout%20Times%20for%20Users.jpg" width="800" height="350" />
+ <img src="https://github.com/honoruru/bikesharing/blob/main/NYC_Citibike_Challenge/Images/1.Checkout%20Times%20for%20Users.jpg" width="600" height="350" />
 </p>
 The majority of rides are for 30 minutes or less. 
 
@@ -42,12 +42,12 @@ The busiest days of the week for rides are Thursday, Friday and Saturday. The sl
 <p align="center">
  <img src="https://github.com/honoruru/bikesharing/blob/main/NYC_Citibike_Challenge/Images/7.utilization%20DB.jpg" width="600" height="350" />
 </p>
+The average duration of rides...
 
 <p align="center">
  <img src="https://github.com/honoruru/bikesharing/blob/main/NYC_Citibike_Challenge/Images/8.repairs%20DB.jpg" width="600" height="350" />
 </p>
-
-Using the visualizations you have in your Tableau Story, describe the results of each visualization underneath the image.
+The average number og repairs...
 
 
 
