@@ -30,7 +30,7 @@ The peak time of day for starting rides 7:00 am to 9:00 am and again at 4:00 pm 
 The busiest days of the week for rides are Thursday, Friday and Saturday. The slowest day of the week is Wednesday. 
 
 <p align="center">
- <img src="https://github.com/honoruru/bikesharing/blob/main/NYC_Citibike_Challenge/Images/3.Trips%20by%20Weekday%20per%20Hour.jpg" width="600" height="350" />
+ <img src="https://github.com/honoruru/bikesharing/blob/main/NYC_Citibike_Challenge/Images/Trips%20by%20Weekday%20per%20Hour%20Heatmap.png" width="600" height="350" />
 </p>
 When reviewing peak hours by weekday, the proportion support the notion that peak hours of 7:00 to 9:00 am and 4:00 to 7 pm represent commuter users. One also observes that on Saturdays, the peak hours are from about 9 am to 7 pm.  This use would more likely be recreational. 
 
@@ -54,6 +54,10 @@ Over the month reviewed, the average number of
 
 ## Summary
 
+
+<p align="center">
+ <img src="https://github.com/honoruru/bikesharing/blob/main/NYC_Citibike_Challenge/Images/3.Trips%20by%20Weekday%20per%20Hour.jpg" width="600" height="350" />
+</p>
 Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
 
 There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)
