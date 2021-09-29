@@ -9,20 +9,6 @@ The purpose of to prepare and provide analysis to convince investors that a bike
 Using the visualizations you have in your Tableau Story, describe the results of each visualization underneath the image.
 
 
-<<<<<<< HEAD
-
-The majority of rides are for 30 minutes or less. 
-
-This holds true regardless of gender of rider, although the services is clearly utilized more by males than females.
-
-
-The peak time of day for starting rides 7:00 am to 9:00 am and again at 4:00 pm to 7 pm.  It would appear the rides are greater during the daily commute.
-
-This holds true regardless of gender of rider.
-
-The busiest days of the week for rides are Thursday, Friday and Saturday. The slowest day of the week is Wednesday.
-
-=======
 <p align="center">
  <img src="https://github.com/honoruru/bikesharing/blob/main/NYC_Citibike_Challenge/Images/1.Checkout%20Times%20for%20Users.jpg" width="800" height="350" />
 </p>
@@ -63,7 +49,6 @@ The busiest days of the week for rides are Thursday, Friday and Saturday. The sl
 
 Using the visualizations you have in your Tableau Story, describe the results of each visualization underneath the image.
 
->>>>>>> dac6c07a4dc1e75f9de9ffb5f259416e2561bee6
 
 
 
