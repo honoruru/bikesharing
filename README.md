@@ -1,6 +1,6 @@
 # Tableau Analysis
 
-[link to dashboard](https://public.tableau.com/app/profile/peter.sanchez)
+[link to dashboard](https://public.tableau.com/views/NYC_Citibike_Challenge_16322963543490/CheckoutTimesforUsers1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ## Project Overview
 
