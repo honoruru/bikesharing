@@ -64,7 +64,7 @@ The analysis suggests that bike stations should be located to faciliate weekday 
 Two additional visualizations that should be further developed are for bike utilization and repair.  The dataset may be either inaccurate or misunderstood as the numbers generated appear to exceed the number of hours available for bike use in a month. 
 
 <p align="center">
- <img src="https://github.com/honoruru/bikesharing/blob/main/NYC_Citibike_Challenge/Images/7.utilization%20DB.jpg).jpg" width="600" height="350" />
+ <img src="https://github.com/honoruru/bikesharing/blob/main/NYC_Citibike_Challenge/Images/7.utilization%20DB.jpg" width="600" height="350" />
 </p>
 <p align="center">
  <img src="https://github.com/honoruru/bikesharing/blob/main/NYC_Citibike_Challenge/Images/8.repairs%20DB.jpg" width="600" height="350" />
