@@ -42,12 +42,12 @@ This holds true regardless of gender of rider.
 <p align="center">
  <img src="https://github.com/honoruru/bikesharing/blob/main/NYC_Citibike_Challenge/Images/7.utilization%20DB.jpg" width="600" height="350" />
 </p>
-The average duration of rides...
+Over the month reviewed, average utilization of bikes 
 
 <p align="center">
  <img src="https://github.com/honoruru/bikesharing/blob/main/NYC_Citibike_Challenge/Images/8.repairs%20DB.jpg" width="600" height="350" />
 </p>
-The average number of repairs...
+Over the month reviewed, the average number of 
 
 
 
