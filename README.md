@@ -1,12 +1,14 @@
 # Tableau Analysis
 
+[link to dashboard](https://public.tableau.com/app/profile/peter.sanchez)
+
 ## Project Overview
 
 The purpose of to prepare and provide analysis to convince investors that a bike-sharing program in Des Moines is a solid business proposal.  The analysis utilizes bike-sharing data from New York City to support the viability of, and inform the strategies for, implementing a similar business in Des Moines. 
 
 ## Results
 
-
+The analysis provides insight to the usage of bikes during each day of the week.
 
 
 <p align="center">
@@ -52,14 +54,19 @@ This holds true regardless of gender of rider.
 
 ## Summary
 
-
+The analysis suggests that bike stations should be located to faciliate weekday commute of relatively short distances. 
 
 
 <p align="center">
  <img src="https://github.com/honoruru/bikesharing/blob/main/NYC_Citibike_Challenge/Images/4.Trips%20by%20Gender%20(Weekday%20per%20Hour).jpg" width="600" height="350" />
 </p>
 
+Two additional visualizations that should be further developed are for bike utilization and repair.  The dataset may be either inaccurate or misunderstood as the numbers generated appear to exceed the number of hours available for bike use in a month. 
 
-Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
+<p align="center">
+ <img src="https://github.com/honoruru/bikesharing/blob/main/NYC_Citibike_Challenge/Images/7.utilization%20DB.jpg).jpg" width="600" height="350" />
+</p>
+<p align="center">
+ <img src="https://github.com/honoruru/bikesharing/blob/main/NYC_Citibike_Challenge/Images/8.repairs%20DB.jpg" width="600" height="350" />
+</p>
 
-There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)
