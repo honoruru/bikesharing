@@ -39,17 +39,6 @@ When reviewing peak hours by weekday, the proportion support the notion that pea
 </p>
 This holds true regardless of gender of rider.
 
-<p align="center">
- <img src="https://github.com/honoruru/bikesharing/blob/main/NYC_Citibike_Challenge/Images/7.utilization%20DB.jpg" width="600" height="350" />
-</p>
-Over the month reviewed, average utilization of bikes 
-
-<p align="center">
- <img src="https://github.com/honoruru/bikesharing/blob/main/NYC_Citibike_Challenge/Images/8.repairs%20DB.jpg" width="600" height="350" />
-</p>
-Over the month reviewed, the average number of 
-
-
 
 
 ## Summary
